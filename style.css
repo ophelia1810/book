@@ -31,7 +31,7 @@ h1 {
   margin: 0;
 }
 #page1 ~ .pages div.page1 {
-  background: url(/2.jpg);
+  background: url(2.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -48,7 +48,7 @@ h1 {
 }
 
 #page2 ~ .pages div.page2 {
-  background-image: url(/6.jpg);
+  background-image: url(6.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -64,7 +64,7 @@ h1 {
 }
 
 #page3 ~ .pages div.page3 {
-  background-image: url(/7.jpg);
+  background-image: url(7.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -81,7 +81,7 @@ h1 {
 }
 
 #page4 ~ .pages div.page4 {
-  background-image: url(/1.jpg);
+  background-image: url(1.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
